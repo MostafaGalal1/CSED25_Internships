@@ -10,3 +10,4 @@ https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIF
 | Name | Location | Status | Deadline |
 |------|----------|--------|----------|
 |[Student Training in Engineering Program, STEP 2023]() | abroad | Active | 11/11/2022 |
+|[Orange Summer Internship Program](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Abroad | Active | Unidentified |
