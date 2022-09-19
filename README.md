@@ -1,6 +1,6 @@
 # CSED25 Internships
-#### Made by CSED 25 
-Repo concerned with the internships aligable for computer and systems students allocating a place for storing and easily accessing them.
+##Info
+Repository concerned with internships aligable for computer and systems students allocating a place for storing and easily accessing them.
   
 ## Contribution
 If it happens to find any open internships, please fill the required details about it via this [form](https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIFivW3ENlm_w/viewform?usp=sf_link).
