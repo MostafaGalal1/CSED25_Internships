@@ -17,5 +17,5 @@ If you happen to find any open internships, please fill the required details via
 
 ## Collaborators
 <a href="https://github.com/pittcsc/Summer2023-Internships/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pittcsc/Summer2023-Internships&columns=24&max=480" />
+  <img src="https://contrib.rocks/image?repo=pittcsc/CSED25-Internships&columns=24&max=480" />
 </a>
