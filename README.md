@@ -11,7 +11,9 @@
 Repository concerned with internships eligible for CSE students providing a space for storing and easily accessing them.
   
 ## Contribution
-If you happen to find any open internships, kindly fill the required details via this [form](https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIFivW3ENlm_w/viewform?usp=sf_link).
+If you happen to find any open internships, kindly fill the required details via this [form]
+Thanks.
+(https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIFivW3ENlm_w/viewform?usp=sf_link).
 
 ## Interns
 | Intern Name | Location | Status | Deadline |
