@@ -7,6 +7,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIF
 
 ## Intern
 
-| Name | Location | Status |
-|------|----------|--------|
-|[Student Training in Engineering Program, STEP 2023]() | abroad | Active |
+| Name | Location | Status | Deadline |
+|------|----------|--------|----------|
+|[Student Training in Engineering Program, STEP 2023]() | abroad | Active | 11/11/2022 |
