@@ -1,4 +1,4 @@
-# [#f03c15]CSED25 Internships
+# CSED25 Internships
 
 ## Info
 Repository concerned with internships aligable for computer and systems students allocating a place for storing and easily accessing them.
