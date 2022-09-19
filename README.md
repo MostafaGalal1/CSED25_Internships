@@ -18,9 +18,9 @@ If you happen to find any open internships, kindly fill the required details via
 |------|----------|--------|----------|
 |[Student Training in Engineering Program, STEP 2023](https://careers.google.com/jobs/results/?employment_type=INTERN&jex=ENTRY_LEVEL&q=STEP) | Abroad | Active | 11/11/2022 |
 |[Orange Summer Internship Program](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Abroad | Active | Unidentified |
-|[Microsoft Software Engineering internships](https://careers.microsoft.com/students/us/en/c/engineering-jobs?from=20&s=1) | Abroad | Active | Unidentified |
-|[Amazon internships for students](https://amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) | Abroad | Active | Unidentified | 
-|[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/details/Summer-2023-Intern---Software-Engineer--Business-Technology--IT-_JR162559?q=software+engineer&d=cta-summer-view-sjb-1&jobFamilyGroup=8db2f0ed342347eb8bac553488d8d12e) | Abroad | Active | Unidentified |
+|[Microsoft Software Engineering Internships](https://careers.microsoft.com/students/us/en/c/engineering-jobs?from=20&s=1) | Abroad | Active | Unidentified |
+|[Amazon Internships for students](https://amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) | Abroad | Active | Unidentified | 
+|[Salesforce Internship](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/details/Summer-2023-Intern---Software-Engineer--Business-Technology--IT-_JR162559?q=software+engineer&d=cta-summer-view-sjb-1&jobFamilyGroup=8db2f0ed342347eb8bac553488d8d12e) | Abroad | Active | Unidentified |
 |[Bloomberg 2023 Software Engineer Intern](https://careers.bloomberg.com/job/detail/106002) | New York | Active | 14/10/2022 |
 | | | | <img src="https://github.com/MostafaGalal1/CSED25_Internships/blob/main/GIFS/giphy%204.gif" width="100" height ="100" />
 
