@@ -1,9 +1,9 @@
 # Internships-2025
 
 ## Link
-https://docs.google.com/forms/d/1eg0SDB2FcgiN05ofwwYGpuGsy9EEH6AEnCh8LJx0am4/edit
+(https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIFivW3ENlm_w/viewform?usp=sf_link)
 
-## INT
+## Intern
 
 | Name | Location | Status | Link |
 |---|----------|---|---|
