@@ -9,3 +9,4 @@ https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIF
 
 | Name | Location | Status | Link |
 |---|----------|---|---|
+|[Student Training in Engineering Program, STEP 2023]() | abroad | Active |
