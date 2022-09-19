@@ -1,8 +1,11 @@
 # CSED25 Internships 
 <p align="center">
-<img src="https://github.com/MostafaGalal1/CSED25_Internships/blob/main/GIFS/giphy%20(1).gif" width ="600" height="300"/>
+  <img src="https://github.com/MostafaGalal1/CSED25_Internships/blob/main/GIFS/giphy%20(1).gif" width ="600" height="300"/>
 </p>
 
+<p align="center">
+  Me when I find that someone found an intern without sending it here :(
+</p>
 
 ## Info
 Repository concerned with internships eligible for CSE students providing a space for storing and easily accessing them.
