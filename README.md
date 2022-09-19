@@ -14,7 +14,7 @@ Repository concerned with internships eligible for CSE students providing a spac
 If you happen to find any open internships, kindly fill the required details via this [form](https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIFivW3ENlm_w/viewform?usp=sf_link).
 
 ## Interns
-| Name | Location | Status | Deadline |
+| Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
 |[Student Training in Engineering Program, STEP 2023](https://careers.google.com/jobs/results/?employment_type=INTERN&jex=ENTRY_LEVEL&q=STEP) | Abroad | Active | 11/11/2022 |
 |[Orange Summer Internship Program](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Abroad | Active | Unidentified |
