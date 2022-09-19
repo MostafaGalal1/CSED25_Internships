@@ -1,5 +1,5 @@
 # CSED25 Internships 
-![](https://github.com/MostafaGalal1/CSED25_Internships/blob/main/GIFS/giphy%20(1).gif)
+![](https://github.com/MostafaGalal1/CSED25_Internships/blob/main/GIFS/giphy%20(1).gif = 150x150)
 ## Info
 Repository concerned with internships eligible for CSE students providing a space for storing and easily accessing them.
   
