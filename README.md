@@ -3,7 +3,7 @@
 Repo concerned with the internships aligable for computer and systems students allocating a place for storing and easily accessing them.
   
 ## Contribution
-If it happens to find any open internships, please fill the details about it via this [form](https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIFivW3ENlm_w/viewform?usp=sf_link).
+If it happens to find any open internships, please fill the required details about it via this [form](https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIFivW3ENlm_w/viewform?usp=sf_link).
 
 ## Interns
 | Name | Location | Status | Deadline |
