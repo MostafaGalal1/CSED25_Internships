@@ -16,6 +16,6 @@ If you happen to find any open internships, please fill the required details via
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/details/Summer-2023-Intern---Software-Engineer--Business-Technology--IT-_JR162559?q=software+engineer&d=cta-summer-view-sjb-1&jobFamilyGroup=8db2f0ed342347eb8bac553488d8d12e) | Abroad | Active | Unidentified
 
 ## Collaborators
-<a href="https://github.com/pittcsc/Summer2023-Internships/graphs/contributors">
+<a href="https://github.com/pittcsc/CSED25-Internships/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pittcsc/CSED25-Internships&columns=24&max=480" />
 </a>
