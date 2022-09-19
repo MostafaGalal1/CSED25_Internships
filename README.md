@@ -19,3 +19,4 @@ If you happen to find any open internships, kindly fill the required details via
 <a href="https://github.com/MostafaGalal1/CSED25_Internships/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MostafaGalal1/CSED25_Internships&columns=24&max=480"/>
 </a>
+![](https://github.com/MostafaGalal1/CSED25_Internships/blob/main/giphy.gif)
