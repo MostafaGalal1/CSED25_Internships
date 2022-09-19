@@ -1,5 +1,5 @@
 # CSED25 Internships 
-
+![](https://github.com/MostafaGalal1/CSED25_Internships/blob/main/GIFS/giphy%20(1).gif)
 ## Info
 Repository concerned with internships eligible for CSE students providing a space for storing and easily accessing them.
   
@@ -17,5 +17,9 @@ If you happen to find any open internships, kindly fill the required details via
 
 ## Contributors
 <a href="https://github.com/MostafaGalal1/CSED25_Internships/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MostafaGalal1/CSED25_Internships&columns=24&max=480"/>
+  <img src="https://contrib.rocks/image?repo=MostafaGalal1/CSED25_Internships&columns=24&max=360"/>
 </a>
+
+<br>
+![](https://github.com/MostafaGalal1/CSED25_Internships/blob/main/GIFS/giphy%20(2).gif)
+![](https://github.com/MostafaGalal1/CSED25_Internships/blob/main/GIFS/giphy%20(4.gif)
