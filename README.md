@@ -22,8 +22,6 @@ If you happen to find any open internships, kindly fill the required details via
 |[Amazon Internships for students](https://amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) | Remote | Active | Unidentified | 
 |[Salesforce Internship](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/details/Summer-2023-Intern---Software-Engineer--Business-Technology--IT-_JR162559?q=software+engineer&d=cta-summer-view-sjb-1&jobFamilyGroup=8db2f0ed342347eb8bac553488d8d12e) | Remote | Active | Unidentified |
 |[Bloomberg 2023 Software Engineer Intern](https://careers.bloomberg.com/job/detail/106002) | New York | Active | 14/10/2022 |
-|[J.P.Morgan 2023 Software Engineer Intern](https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer#careers-section7) | Remote | Active | 31/10/2022 |
-|[Brainnest Intern/Junior Frontend Developer (Remote Internship)](https://jobs.lever.co/brainnest/20beac1d-6131-4022-831c-12132b6b79e9/apply?lever-source=LinkedIn) | Remote | Active | Unidentified |
 
 
 ## Contributors
