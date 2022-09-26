@@ -26,6 +26,7 @@ If you happen to find any open internships, kindly fill the required details via
 |[Brainnest Intern/Junior Frontend Developer (Remote Internship)](https://jobs.lever.co/brainnest/20beac1d-6131-4022-831c-12132b6b79e9/apply?lever-source=LinkedIn
 ) | Remote | Active | Unidentified |
 
+
 ## Contributors
 <a href="https://github.com/MostafaGalal1/CSED25_Internships/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MostafaGalal1/CSED25_Internships&anon=1&columns=24" />
