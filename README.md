@@ -26,6 +26,7 @@ Or you can directly edit README.md and become one of our contributors.
 |[Bloomberg 2023 Software Engineer Intern](https://careers.bloomberg.com/job/detail/106002) | New York | Active | 14/10/2022 |
 |[J.P.Morgan 2023 Software Engineer Intern](https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer#careers-section7) | Remote | Active | 31/10/2022 |
 |[Brainnest Intern/Junior Frontend Developer (Remote Internship)](https://jobs.lever.co/brainnest/20beac1d-6131-4022-831c-12132b6b79e9/apply?lever-source=LinkedIn) | Remote | Active | Unidentified |
+|[Uber 2023 Software Engineer Intern](https://university-uber.icims.com/jobs/116847/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) |  US-CA-San Francisco | Active | Unidentified |
 
 
 ## Contributors honor wall
