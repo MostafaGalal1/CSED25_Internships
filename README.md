@@ -30,8 +30,7 @@ Or you can directly edit README.md and become one of our contributors.
 
 ## Contributors honor wall
 We would like to thank each one of you. for sure your contribution had helped someone in somewhere.
-Keep doing good.
- 
+
 <a href="https://github.com/MostafaGalal1/CSED25_Internships/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MostafaGalal1/CSED25_Internships&anon=1&columns=24" />
 </a>
