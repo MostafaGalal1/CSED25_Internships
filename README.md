@@ -11,8 +11,9 @@
 Repository concerned with internships eligible for CSE students providing a space for storing and easily accessing them.
   
 ## Contribution
-If you happen to find any open internships, kindly fill the required details via this [form](https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIFivW3ENlm_w/viewform?usp=sf_link) 
-or you can directly edit README.md and become one of our contributors.
+If you happen to find any open internships, kindly fill the required details via this [form](https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIFivW3ENlm_w/viewform?usp=sf_link)
+
+Or you can directly edit README.md and become one of our contributors.
 
 ## Interns
 | Intern Name | Location | Status | Deadline |
@@ -27,7 +28,10 @@ or you can directly edit README.md and become one of our contributors.
 |[Brainnest Intern/Junior Frontend Developer (Remote Internship)](https://jobs.lever.co/brainnest/20beac1d-6131-4022-831c-12132b6b79e9/apply?lever-source=LinkedIn) | Remote | Active | Unidentified |
 
 
-## Contributors
+## Contributors honor wall
+We would like to thank each one of you. for sure your contribution had helped someone in somewhere.
+Keep doing good.
+ 
 <a href="https://github.com/MostafaGalal1/CSED25_Internships/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MostafaGalal1/CSED25_Internships&anon=1&columns=24" />
 </a>
