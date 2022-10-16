@@ -27,11 +27,11 @@ Or you can directly edit README.md and become one of our contributors.
 |[J.P.Morgan 2023 Software Engineer Intern](https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer#careers-section7) | Remote | Active | 31/10/2022 |
 |[Brainnest Intern/Junior Frontend Developer (Remote Internship)](https://jobs.lever.co/brainnest/20beac1d-6131-4022-831c-12132b6b79e9/apply?lever-source=LinkedIn) | Cairo | Active | Unidentified |
 |[Uber 2023 Software Engineer Intern](https://university-uber.icims.com/jobs/116847/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) |  CA-San Francisco | Active | Unidentified |
-|[Cisco Consulting Engineer Internship](https://jobs.cisco.com/jobs/ProjectDetail/Internship-Consulting-Engineer-Egypt-Start-March-2023/1385857?source=LinkedIn) | Egypt-Cairo | Active | Unidentified
+|[Cisco Consulting Engineer Internship](https://jobs.cisco.com/jobs/ProjectDetail/Internship-Consulting-Engineer-Egypt-Start-March-2023/1385857?source=LinkedIn) | Egypt-Cairo | Active | Unidentified | 
 
 
 ## Contributors honor wall
-We would like to thank each one of you. for sure your contribution had helped someone in somewhere.
+We would like to thank each one of you. for sure your contribution has helped someone, somewhere.
 
 <a href="https://github.com/MostafaGalal1/CSED25_Internships/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MostafaGalal1/CSED25_Internships&anon=1&columns=24" />
