@@ -18,6 +18,7 @@ Or you can directly edit README.md and become one of our contributors.
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
+|[2023 Software Dev Engineer Internship](https://www.amazon.jobs/en-gb/jobs/2273947/2023-software-dev-engineer-internship?cmpid=SPLICX0248M&fbclid=IwAR1fWidMnZ-dEmnJkJrM769jjVv5Fp9tz2Awkj6cuJP15b2BBdphQgH4pjQ&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Cairo | Active | Unidentified |
 |[Google Student Training in Engineering Program, STEP 2023](https://careers.google.com/jobs/results/?employment_type=INTERN&jex=ENTRY_LEVEL&q=STEP) | Remote | Active | 11/11/2022 |
 |[Orange Summer Internship Program](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Cairo | Active | Unidentified |
 |[Microsoft Software Engineering Internships](https://careers.microsoft.com/students/us/en/c/engineering-jobs?from=20&s=1) | Remote | Active | Unidentified |
