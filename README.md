@@ -29,6 +29,7 @@ Or you can directly edit README.md and become one of our contributors.
 |[Brainnest Intern/Junior Frontend Developer (Remote Internship)](https://jobs.lever.co/brainnest/20beac1d-6131-4022-831c-12132b6b79e9/apply?lever-source=LinkedIn) | Cairo | Active | Unidentified |
 |[Uber 2023 Software Engineer Intern](https://university-uber.icims.com/jobs/116847/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) |  CA-San Francisco | Active | Unidentified |
 |[Cisco Consulting Engineer Internship](https://jobs.cisco.com/jobs/ProjectDetail/Internship-Consulting-Engineer-Egypt-Start-March-2023/1385857?source=LinkedIn) | Egypt-Cairo | Active | Unidentified | 
+|[Amazon cairo intern 2023](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship?cmpid=SPLICX0248M&fbclid=IwAR28QWm3nVOM06h-OzPinG_LYMtsC0wt6gC-507mvyE-JweBf_JuJnOeSk4&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Egypt-Cairo | Active | Unidentified |
 
 
 ## Contributors honor wall
