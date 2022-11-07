@@ -6,6 +6,9 @@
 <p align="center">
   Me when I find that someone found an intern without sending it here :(
 </p>
+<p align="center">
+  Note: Any new interns are appended at the bottom, so don't be lazy and scroll it!!!
+</p>
 
 ## Info
 Repo concerned with internships eligible for CSE students providing a space for storing and easily accessing them.
