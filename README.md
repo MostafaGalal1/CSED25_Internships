@@ -21,7 +21,6 @@ Or you can directly edit README.md and become one of our contributors.
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
-|[Google Student Training in Engineering Program, STEP 2023](https://careers.google.com/jobs/results/?employment_type=INTERN&jex=ENTRY_LEVEL&q=STEP) | Remote | Active | 11/11/2022 |
 |[Orange Summer Internship Program](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Egypt-Cairo | Active | Unidentified |
 |[Microsoft Software Engineering Internships](https://careers.microsoft.com/students/us/en/c/engineering-jobs?from=20&s=1) | Remote | Active | Unidentified |
 |[Amazon Internships for students](https://amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) | Remote | Active | Unidentified | 
@@ -32,6 +31,7 @@ Or you can directly edit README.md and become one of our contributors.
 |[Uber 2023 Software Engineer Intern](https://university-uber.icims.com/jobs/116847/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) |  CA-San Francisco | Active | Unidentified |
 |[Cisco Consulting Engineer Internship](https://jobs.cisco.com/jobs/ProjectDetail/Internship-Consulting-Engineer-Egypt-Start-March-2023/1385857?source=LinkedIn) | Egypt-Cairo | Active | Unidentified | 
 |[Amazon Software Dev Engineer Internship 2023](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship?cmpid=SPLICX0248M&fbclid=IwAR28QWm3nVOM06h-OzPinG_LYMtsC0wt6gC-507mvyE-JweBf_JuJnOeSk4&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Egypt-Cairo | Active | Unidentified |
+|[Google Student Training in Engineering Program, STEP 2023](https://careers.google.com/jobs/results/?employment_type=INTERN&jex=ENTRY_LEVEL&q=STEP) | Remote | Active | 17/02/2023 |
 
 
 ## Contributors honor wall
