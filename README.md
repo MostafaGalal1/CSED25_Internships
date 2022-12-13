@@ -22,9 +22,9 @@ Or you can directly edit README.md and become one of our contributors.
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
 |[Orange Summer Internship Program](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Egypt-Cairo | Active | Unidentified |
-|[Microsoft Software Engineering Internships](https://careers.microsoft.com/students/us/en/c/engineering-jobs?from=20&s=1) | Remote | Active | Unidentified |
+|[Microsoft Software Engineering Internships](https://careers.microsoft.com/students/us/en/c/engineering-jobs?from=20&s=1) | Remote | Expired | Unidentified |
 |[Amazon Internships for students](https://amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) | Remote | Active | Unidentified | 
-|[Salesforce Internship](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/details/Summer-2023-Intern---Software-Engineer--Business-Technology--IT-_JR162559?q=software+engineer&d=cta-summer-view-sjb-1&jobFamilyGroup=8db2f0ed342347eb8bac553488d8d12e) | Remote | Active | Unidentified |
+|[Salesforce Internship](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/details/Summer-2023-Intern---Software-Engineer--Business-Technology--IT-_JR162559?q=software+engineer&d=cta-summer-view-sjb-1&jobFamilyGroup=8db2f0ed342347eb8bac553488d8d12e) | Remote | Expired | Unidentified |
 |[Bloomberg 2023 Software Engineer Intern](https://careers.bloomberg.com/job/detail/106002) | NY-New York | Expired | 14/10/2022 |
 |[Brainnest Intern/Junior Frontend Developer (Remote Internship)](https://jobs.lever.co/brainnest/20beac1d-6131-4022-831c-12132b6b79e9/apply?lever-source=LinkedIn) | Egypt-Cairo | Active | Unidentified |
 |[Uber 2023 Software Engineer Intern](https://university-uber.icims.com/jobs/116847/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) |  CA-San Francisco | Active | Unidentified |
