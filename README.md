@@ -21,17 +21,19 @@ Or you can directly edit README.md and become one of our contributors.
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
-|[Orange Summer Internship Program](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Egypt-Cairo | Active | Unidentified |
-|[Microsoft Software Engineering Internships](https://careers.microsoft.com/students/us/en/c/engineering-jobs?from=20&s=1) | Remote | Expired | Unidentified |
-|[Amazon Internships for students](https://amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) | Remote | Active | Unidentified | 
-|[Salesforce Internship](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/details/Summer-2023-Intern---Software-Engineer--Business-Technology--IT-_JR162559?q=software+engineer&d=cta-summer-view-sjb-1&jobFamilyGroup=8db2f0ed342347eb8bac553488d8d12e) | Remote | Expired | Unidentified |
+|[Orange Summer Internship Program](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Egypt-Cairo | Active | Unknown |
+|[Microsoft Software Engineering Internships](https://careers.microsoft.com/students/us/en/c/engineering-jobs?from=20&s=1) | Remote | Expired | Unknown |
+|[Amazon Internships for students](https://amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) | Remote | Active | Unknown | 
+|[Salesforce Internship](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/details/Summer-2023-Intern---Software-Engineer--Business-Technology--IT-_JR162559?q=software+engineer&d=cta-summer-view-sjb-1&jobFamilyGroup=8db2f0ed342347eb8bac553488d8d12e) | Remote | Expired | Unknown |
 |[Bloomberg 2023 Software Engineer Intern](https://careers.bloomberg.com/job/detail/106002) | NY-New York | Expired | 14/10/2022 |
-|[Brainnest Intern/Junior Frontend Developer (Remote Internship)](https://jobs.lever.co/brainnest/20beac1d-6131-4022-831c-12132b6b79e9/apply?lever-source=LinkedIn) | Egypt-Cairo | Active | Unidentified |
-|[Uber 2023 Software Engineer Intern](https://university-uber.icims.com/jobs/116847/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) |  CA-San Francisco | Active | Unidentified |
-|[Cisco Consulting Engineer Internship](https://jobs.cisco.com/jobs/ProjectDetail/Internship-Consulting-Engineer-Egypt-Start-March-2023/1385857?source=LinkedIn) | Egypt-Cairo | Active | Unidentified | 
-|[Amazon Software Dev Engineer Internship 2023](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship?cmpid=SPLICX0248M&fbclid=IwAR28QWm3nVOM06h-OzPinG_LYMtsC0wt6gC-507mvyE-JweBf_JuJnOeSk4&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Egypt-Cairo | Expired | Unidentified |
+|[Brainnest Intern/Junior Frontend Developer (Remote Internship)](https://jobs.lever.co/brainnest/20beac1d-6131-4022-831c-12132b6b79e9/apply?lever-source=LinkedIn) | Egypt-Cairo | Active | Unknown |
+|[Uber 2023 Software Engineer Intern](https://university-uber.icims.com/jobs/116847/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) |  CA-San Francisco | Active | Unknown |
+|[Cisco Consulting Engineer Internship](https://jobs.cisco.com/jobs/ProjectDetail/Internship-Consulting-Engineer-Egypt-Start-March-2023/1385857?source=LinkedIn) | Egypt-Cairo | Active | Unknown | 
+|[Amazon Software Dev Engineer Internship 2023](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship?cmpid=SPLICX0248M&fbclid=IwAR28QWm3nVOM06h-OzPinG_LYMtsC0wt6gC-507mvyE-JweBf_JuJnOeSk4&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Egypt-Cairo | Expired | Unknown |
 |[Google Student Training in Engineering Program, STEP 2023](https://careers.google.com/jobs/results/?employment_type=INTERN&jex=ENTRY_LEVEL&q=STEP) | Remote | Active | 17/02/2023 |
 |[J.P.Morgan 2023 Software Engineer Intern](https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer#careers-section7) | Remote | Active | 01/03/2023 |
+|[Valeo Egypt internship 2023](https://forms.gle/kquuMAxxftR4LbGCA) | Egypt | Active | 31/03/2023 |
+|[Google Student Australia, Japan STEP 2023](https://careers.google.com/jobs/results/72473548246917830-student-training-in-engineering-program-step-2023/) | Remote | Active | Unknown |
 
 
 ## Contributors honor wall
