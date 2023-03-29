@@ -35,7 +35,7 @@ Or you can directly edit README.md and become one of our contributors.
 |[Valeo Egypt internship 2023](https://forms.gle/kquuMAxxftR4LbGCA) | Egypt | Active | 31/03/2023 |
 |[Google Student Australia, Japan STEP 2023](https://careers.google.com/jobs/results/72473548246917830-student-training-in-engineering-program-step-2023/) | Remote | Active | Unknown |
 |[IBM 2023 Internship: Frontend Developer](https://careers.ibm.com/job/17897292/2023-internship-frontend-developer-san-jose-ca/?codes=IBM_CareerWebSite) | CA-USA | Active | Unknown |
-|[palantir Future Scholarship-Global](https://jobs.lever.co/palantir/78f811f6-82c7-4193-b0db-515697fac233)| Colorado, U.S. | Active | Unknown |
+|[Palantir Future Scholarship-Global](https://jobs.lever.co/palantir/78f811f6-82c7-4193-b0db-515697fac233)| Colorado, U.S. | Active | Unknown |
 
 
 ## Contributors honor wall
