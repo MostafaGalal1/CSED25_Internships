@@ -36,6 +36,7 @@ Or you can directly edit README.md and become one of our contributors.
 |[Google Student Australia, Japan STEP 2023](https://careers.google.com/jobs/results/72473548246917830-student-training-in-engineering-program-step-2023/) | Remote | Expired | Unknown |
 |[IBM 2023 Internship: Frontend Developer](https://careers.ibm.com/job/17897292/2023-internship-frontend-developer-san-jose-ca/?codes=IBM_CareerWebSite) | CA-USA | Expired | Unknown |
 |[Palantir Future Scholarship-Global](https://jobs.lever.co/palantir/78f811f6-82c7-4193-b0db-515697fac233)| Colorado, U.S. | Active | 18/05/2023 |
+|[Pharos Solutions - Summer Internship Application 2023](https://docs.google.com/forms/d/e/1FAIpQLScC8eCAkJVoz_0pON1m80isN23XO4WDRWQHOFK_M90Ylzm_lQ/viewform)| Egypt | Active | Unknown |)|
 
 
 ## Contributors honor wall
