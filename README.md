@@ -21,6 +21,8 @@ Or you can directly edit README.md and become one of our contributors.
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
+|[espace](https://espace.com.eg/blog/announcing-espace-2023-internship-program/) | Egypt-Alexandria | Active | Unknown |
+|[Schneider Electric](https://careers.se.com/global/jobs/008G62?lang=en-us&iis=Job%20Board&iisn=linkedin&src=linkedin) | Egypt-Cairo | Active | 16/05/2023 |
 |[Orange Summer Internship Program](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Egypt-Cairo | Active | Unknown |
 |[Microsoft Software Engineering Internships](https://careers.microsoft.com/students/us/en/c/engineering-jobs?from=20&s=1) | Remote | Expired | Unknown |
 |[Amazon Internships for students](https://amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) | Remote | Active | Unknown | 
