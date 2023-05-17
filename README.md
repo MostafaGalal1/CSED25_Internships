@@ -4,19 +4,20 @@
 </p>
 
 <p align="center">
-  Me when I find that someone found an intern without sending it here :(
+  Me when I find out that someone found an intern without sharing it here :(
 </p>
 <p align="center">
-  Note: Any new interns are appended at the top now.
+  Note: Any new interns are appended at the top.
 </p>
 
 ## Info
-Repo concerned with internships eligible for CSE students providing a space for storing and easily accessing them.
-  
-## Contribution
-If you happen to find any open internships, kindly fill the required details via this [form](https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIFivW3ENlm_w/viewform?usp=sf_link).
+Welcome to CSED25 Internships. This repository serves as a collection of internship opportunities suitable for students in various fields. It provides a centralized space for storing and accessing internship details, making it easier for students to explore and apply for internships.
 
-Or you can directly edit README.md and become one of our contributors.
+## Contribution
+1. Ensure the internship details are accurate and provide all the necessary information.
+2. Submit the details via the [Contribution Form](https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIFivW3ENlm_w/viewform?usp=sf_link) or make a direct edit to the README.md file.
+3. Append the new internship opportunity at the top of the list, including the intern name, location, status, and deadline to become one of your contributors.
+
 
 ## Interns
 | Intern Name | Location | Status | Deadline |
