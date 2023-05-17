@@ -21,6 +21,7 @@ Or you can directly edit README.md and become one of our contributors.
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
+|[SW Engineer Intern - Jumia (Full-time)](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu) | Egypt | Active | Unknown |
 |[Hybrid Vodanation Summer Internship'23](https://forms.office.com/Pages/ResponsePage.aspx?id=x07VKCEiF0essH-MNzWQSCuwCGZ3eclAmz5uwPwlAn1UM0ZHSzZBWFMzSVMwQ1JSR1VCMjVLVlQwRy4u) | Egypt-Cairo | Active | 21/05/2023 |
 |[Dell Technologies Undergraduate Intern, Data Office Software Engineer](https://www.linkedin.com/jobs/view/3597326145) | Egypt-Cairo | Active | 25/05/2023 |
 |[sparks foundation Internship 2023](https://internship.thesparksfoundation.info/#steps-to-apply) | Singapore | Active | Unknown |
@@ -28,6 +29,7 @@ Or you can directly edit README.md and become one of our contributors.
 |[SIEMENS Class 2023 - Internship for Egyptian Students](https://jobs.siemens.com/careers/job?domain=siemens.com&query=368362&pid=563156115792815&sort_by=relevance&triggerGoButton=true&fbclid=IwAR1FSbR6_LWv3_Po8l9ZEfc2vgVIHLT9-Vs5zSntLly8vx7JIazXMsGbpsA) | Egypt-Cairo | Active | Unknown |
 |[Eventum solutions summer Internships 2023](http://eventumsolutions.com/careers/) | Egypt-Alexandria | Active | Unknown |
 |[espace 2023 Internship Program](https://espace.com.eg/blog/announcing-espace-2023-internship-program/) | Egypt-Alexandria | Active | Unknown |
+|[Huawei Internship(On-site)](https://www.linkedin.com/jobs/view/3599924000/) | Egypt-Cairo | Active | Unknown |
 |[Schneider Electric](https://careers.se.com/global/jobs/008G62?lang=en-us&iis=Job%20Board&iisn=linkedin&src=linkedin) | Egypt-Cairo | Active | 16/05/2023 |
 |[Orange Summer Internship Program](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Egypt-Cairo | Active | Unknown |
 |[Pharos Solutions - Summer Internship Application 2023](https://docs.google.com/forms/d/e/1FAIpQLScC8eCAkJVoz_0pON1m80isN23XO4WDRWQHOFK_M90Ylzm_lQ/viewform)| Egypt | Active | Unknown |)|
