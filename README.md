@@ -21,6 +21,7 @@ Or you can directly edit README.md and become one of our contributors.
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
+|[Hybrid Vodanation Summer Internship'23](https://forms.office.com/Pages/ResponsePage.aspx?id=x07VKCEiF0essH-MNzWQSCuwCGZ3eclAmz5uwPwlAn1UM0ZHSzZBWFMzSVMwQ1JSR1VCMjVLVlQwRy4u) | Egypt-Cairo | Active | 21/05/2023 |
 |[Dell Technologies Undergraduate Intern, Data Office Software Engineer](https://www.linkedin.com/jobs/view/3597326145) | Egypt-Cairo | Active | 25/05/2023 |
 |[sparks foundation Internship 2023](https://internship.thesparksfoundation.info/#steps-to-apply) | Singapore | Active | Unknown |
 |[synapse analytics 2023 Internship](https://synapseanalytics.recruitee.com/) | Egypt-Cairo | Active | Unknown |
