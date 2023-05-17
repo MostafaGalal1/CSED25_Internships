@@ -21,9 +21,11 @@ Or you can directly edit README.md and become one of our contributors.
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
-|[synapse analytics 2023 Internship](https://synapseanalytics.recruitee.com/)| Egypt-Cairo | Active | Unknown |
-|[SIEMENS Class 2023 - Internship for Egyptian Students](https://jobs.siemens.com/careers/job?domain=siemens.com&query=368362&pid=563156115792815&sort_by=relevance&triggerGoButton=true&fbclid=IwAR1FSbR6_LWv3_Po8l9ZEfc2vgVIHLT9-Vs5zSntLly8vx7JIazXMsGbpsA)| Egypt-Cairo | Active | Unknown |
-|[Eventum solutions summer Internships 2023](http://eventumsolutions.com/careers/)| Egypt-Alexandria | Active | Unknown |
+|[Dell Technologies Undergraduate Intern, Data Office Software Engineer](https://www.linkedin.com/jobs/view/3597326145) | Egypt-Cairo | Active | 25/05/2023 |
+|[sparks foundation Internship 2023](https://internship.thesparksfoundation.info/#steps-to-apply) | Singapore | Active | Unknown |
+|[synapse analytics 2023 Internship](https://synapseanalytics.recruitee.com/) | Egypt-Cairo | Active | Unknown |
+|[SIEMENS Class 2023 - Internship for Egyptian Students](https://jobs.siemens.com/careers/job?domain=siemens.com&query=368362&pid=563156115792815&sort_by=relevance&triggerGoButton=true&fbclid=IwAR1FSbR6_LWv3_Po8l9ZEfc2vgVIHLT9-Vs5zSntLly8vx7JIazXMsGbpsA) | Egypt-Cairo | Active | Unknown |
+|[Eventum solutions summer Internships 2023](http://eventumsolutions.com/careers/) | Egypt-Alexandria | Active | Unknown |
 |[espace 2023 Internship Program](https://espace.com.eg/blog/announcing-espace-2023-internship-program/) | Egypt-Alexandria | Active | Unknown |
 |[Schneider Electric](https://careers.se.com/global/jobs/008G62?lang=en-us&iis=Job%20Board&iisn=linkedin&src=linkedin) | Egypt-Cairo | Active | 16/05/2023 |
 |[Orange Summer Internship Program](https://msurvey.orange.com/summerinternshipprogram?fbclid=IwAR2g-Dd12rpmZ9-_Icc6obEJkqaTcrIgljTIY5lsVQpU-0DiGpml31cfOp0) | Egypt-Cairo | Active | Unknown |
