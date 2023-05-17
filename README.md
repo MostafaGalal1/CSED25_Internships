@@ -21,6 +21,7 @@ Or you can directly edit README.md and become one of our contributors.
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
+|[synapse analytics 2023 Internship](https://synapseanalytics.recruitee.com/)| Egypt-Cairo | Active | Unknown |
 |[SIEMENS Class 2023 - Internship for Egyptian Students](https://jobs.siemens.com/careers/job?domain=siemens.com&query=368362&pid=563156115792815&sort_by=relevance&triggerGoButton=true&fbclid=IwAR1FSbR6_LWv3_Po8l9ZEfc2vgVIHLT9-Vs5zSntLly8vx7JIazXMsGbpsA)| Egypt-Cairo | Active | Unknown |
 |[Eventum solutions summer Internships 2023](http://eventumsolutions.com/careers/)| Egypt-Alexandria | Active | Unknown |
 |[espace 2023 Internship Program](https://espace.com.eg/blog/announcing-espace-2023-internship-program/) | Egypt-Alexandria | Active | Unknown |
