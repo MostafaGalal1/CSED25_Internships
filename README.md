@@ -22,6 +22,8 @@ Welcome to CSED25 Internships. This repository serves as a collection of interns
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
+|[enozom The Project Bootcamp](https://enozom.com/theproject)| Egypt-Alexandria | Active | first 1000 applicants |
+|[Pencil Spaces SW remote internship](https://form.jotform.com/231306275082551)| Egypt | Active | Unknown |
 |[SW Engineer Intern - Jumia (Full-time)](https://boards.eu.greenhouse.io/jumia/jobs/4136290101?gh_src=9e802862teu) | Egypt | Active | Unknown |
 |[Hybrid Vodanation Summer Internship'23](https://forms.office.com/Pages/ResponsePage.aspx?id=x07VKCEiF0essH-MNzWQSCuwCGZ3eclAmz5uwPwlAn1UM0ZHSzZBWFMzSVMwQ1JSR1VCMjVLVlQwRy4u) | Egypt-Cairo | Active | 21/05/2023 |
 |[Dell Technologies Undergraduate Intern, Data Office Software Engineer](https://www.linkedin.com/jobs/view/3597326145) | Egypt-Cairo | Active | 25/05/2023 |
