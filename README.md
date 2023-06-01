@@ -22,6 +22,7 @@ Welcome to CSED25 Internships. This repository serves as a collection of interns
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
+|[Amazon Software Dev Engineer Internship 2023](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | Active | Unknown
 |[Dell Tech Summer Academy](https://www.linkedin.com/posts/fadynabilyacoub_students-delltech-mysummerwithdell-activity-7069666686722879488-VjJi/?utm_source=share&utm_medium=member_android)| Egypt | Active | 22/6/2023 |
 |[enozom The Project Bootcamp](https://enozom.com/theproject)| Egypt-Alexandria | Active | first 1000 applicants |
 |[Pencil Spaces SW remote internship](https://form.jotform.com/231306275082551)| Egypt | Active | Unknown |
@@ -50,8 +51,6 @@ Welcome to CSED25 Internships. This repository serves as a collection of interns
 |[Google Student Australia, Japan STEP 2023](https://careers.google.com/jobs/results/72473548246917830-student-training-in-engineering-program-step-2023/) | Remote | Expired | Unknown |
 |[IBM 2023 Internship: Frontend Developer](https://careers.ibm.com/job/17897292/2023-internship-frontend-developer-san-jose-ca/?codes=IBM_CareerWebSite) | CA-USA | Expired | Unknown |
 |[Google Student Training in Engineering Program, STEP 2023](https://careers.google.com/jobs/results/?employment_type=INTERN&jex=ENTRY_LEVEL&q=STEP) | Remote | Expired | 17/02/2023 |
-|[Amazon Software Dev Engineer Internship 2023](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship?cmpid=SPLICX0248M&fbclid=IwAR28QWm3nVOM06h-OzPinG_LYMtsC0wt6gC-507mvyE-JweBf_JuJnOeSk4&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Egypt-Cairo | Expired | Unknown |
-
 ## Contributors honor wall
 We would like to thank each one of you. for sure your contribution has helped someone, somewhere.
 
