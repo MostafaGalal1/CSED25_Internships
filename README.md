@@ -22,6 +22,7 @@ Welcome to CSED25 Internships. This repository serves as a collection of interns
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
+|[Amazon Software Dev Engineer Internship 2023](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | Active | Unknown
 |[Dell Tech Summer Academy](https://www.linkedin.com/posts/fadynabilyacoub_students-delltech-mysummerwithdell-activity-7069666686722879488-VjJi/?utm_source=share&utm_medium=member_android)| Egypt | Active | 22/6/2023 |
 |[enozom The Project Bootcamp](https://enozom.com/theproject)| Egypt-Alexandria | Active | first 1000 applicants |
 |[Pencil Spaces SW remote internship](https://form.jotform.com/231306275082551)| Egypt | Active | Unknown |
