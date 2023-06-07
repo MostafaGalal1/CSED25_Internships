@@ -22,7 +22,12 @@ Welcome to CSED25 Internships. This repository serves as a collection of interns
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
-|[Sylnder](https://jobs.lever.co/sylndr/d33f10ad-c614-4749-86ea-278d701955d0) | Cairo | Active - Next.js intern |
+|[Naqla- Data Analyst](https://naqla.zohorecruit.com/jobs/Careers/706650000001708700/Analyst-Internship)|Cairo| Active | Unkonwn |
+|[Paysky - Paid](https://paysky.io/jobs/internships-across-functions/)| - | Active | Unknown |
+|[Pencil Spaces - Software Engineering](https://form.jotform.com/231306275082551)| Remote | Active | Unknown |
+|[Pinerium - Software Engineering](https://careers.pinerium.com/jobs/Internships/417943000007046017/Software-Developer-Internship?source=CareerSite)|Alexandria| Active | Unknwon |
+|[ProCrew - Software Engineering](https://www.procrew.pro/job/internship-backend-web-developer-node-js-nest-js)| Alexandria | Active | Unknown |
+|[Sylnder](https://jobs.lever.co/sylndr/d33f10ad-c614-4749-86ea-278d701955d0) | Cairo | Active - Next.js intern | Unknown |
 |[Amazon Software Dev Engineer Internship 2023](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship)| Cairo | Active | Unknown
 |[Dell Tech Summer Academy](https://www.linkedin.com/posts/fadynabilyacoub_students-delltech-mysummerwithdell-activity-7069666686722879488-VjJi/?utm_source=share&utm_medium=member_android)| Egypt | Active | 22/6/2023 |
 |[enozom The Project Bootcamp](https://enozom.com/theproject)| Egypt-Alexandria | Active | first 1000 applicants |
