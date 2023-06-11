@@ -22,6 +22,7 @@ Welcome to CSED25 Internships. This repository serves as a collection of interns
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
+|[Samsung Innovation Campus](https://docs.google.com/forms/d/e/1FAIpQLSeANCfkYwWPrFp9hbS3smRzdhfKh6TTjDL3hZ1KjBYwW6TV2w/viewform)| Remote | Active | 15/6/2023 |
 |[Naqla- Data Analyst](https://naqla.zohorecruit.com/jobs/Careers/706650000001708700/Analyst-Internship)|Cairo| Active | Unkonwn |
 |[Paysky - Paid](https://paysky.io/jobs/internships-across-functions/)| - | Active | Unknown |
 |[Pencil Spaces - Software Engineering](https://form.jotform.com/231306275082551)| Remote | Active | Unknown |
