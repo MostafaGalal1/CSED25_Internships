@@ -45,6 +45,7 @@ Welcome to CSED25 Internships. This repository serves as a collection of interns
 |[Pharos Solutions - Summer Internship Application 2023](https://docs.google.com/forms/d/e/1FAIpQLScC8eCAkJVoz_0pON1m80isN23XO4WDRWQHOFK_M90Ylzm_lQ/viewform)| Egypt | Active | Unknown |)|
 |[Palantir Future Scholarship-Global](https://jobs.lever.co/palantir/78f811f6-82c7-4193-b0db-515697fac233)| Colorado, U.S. | Active | 18/05/2023 |
 |[Amazon Internships for students](https://amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) | Remote | Active | Unknown | 
+Expired Interns
 |[Cisco Consulting Engineer Internship](https://jobs.cisco.com/jobs/ProjectDetail/Internship-Consulting-Engineer-Egypt-Start-March-2023/1385857?source=LinkedIn) | Egypt-Cairo | Expired | Unknown |
 |[Uber 2023 Software Engineer Intern](https://university-uber.icims.com/jobs/116847/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) |  CA-San Francisco | Expired | Unknown |
 |[Brainnest Intern/Junior Frontend Developer (Remote Internship)](https://jobs.lever.co/brainnest/20beac1d-6131-4022-831c-12132b6b79e9/apply?lever-source=LinkedIn) | Egypt-Cairo | Expired | Unknown |
@@ -58,7 +59,6 @@ Welcome to CSED25 Internships. This repository serves as a collection of interns
 |[Google Student Australia, Japan STEP 2023](https://careers.google.com/jobs/results/72473548246917830-student-training-in-engineering-program-step-2023/) | Remote | Expired | Unknown |
 |[IBM 2023 Internship: Frontend Developer](https://careers.ibm.com/job/17897292/2023-internship-frontend-developer-san-jose-ca/?codes=IBM_CareerWebSite) | CA-USA | Expired | Unknown |
 |[Google Student Training in Engineering Program, STEP 2023](https://careers.google.com/jobs/results/?employment_type=INTERN&jex=ENTRY_LEVEL&q=STEP) | Remote | Expired | 17/02/2023 |
-|[Amazon Software Dev Engineer Internship 2023](https://www.amazon.jobs/en/jobs/2273947/2023-software-dev-engineer-internship?cmpid=SPLICX0248M&fbclid=IwAR28QWm3nVOM06h-OzPinG_LYMtsC0wt6gC-507mvyE-JweBf_JuJnOeSk4&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | Egypt-Cairo | Expired | Unknown |
 
 ## Contributors honor wall
 We would like to thank each one of you. for sure your contribution has helped someone, somewhere.
