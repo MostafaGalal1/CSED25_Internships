@@ -22,7 +22,12 @@ Welcome to CSED25 Internships. This repository serves as a collection of interns
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
-|[Ayamedica - iOS Paid Intern](https://www.linkedin.com/posts/ayamedica_ayamedica-internship-iosdevelopment-activity-7073956506659938304-tvPJ?utm_source=share&utm_medium=member_desktop)| Cairo | Active | Unknown
+|[Bosta Android **Paid** intern](https://jobs.lever.co/Bosta/5f97386e-c22d-4cf8-877c-e7abe0561aa8)| Cairo-Remote | Active|Unknown
+|[Bosta SW testing **Paid** intern](https://jobs.lever.co/Bosta/6b921ff8-3e90-4122-96c5-5e703ea2e3fe)| Cairo-Remote | Active|Unknown
+|[Optioma CyberSec - Cyber security](https://www.linkedin.com/posts/optimaps_summer-internship-opportunity-atoptima-professional-activity-7073591967208620032-JGlG?utm_source=share&utm_medium=member_desktop)|Cairo| Active | Unknown
+|[Bosta Backend **Paid** intern](https://jobs.lever.co/Bosta/f66928b1-1cd0-47fb-8b05-d8ca69f9e665)| Cairo-Remote | Active |Unknown
+|[Bosta Infrastructure **Paid** intern](https://jobs.lever.co/Bosta/457e1b3f-e93c-41be-b1cf-b78878e081bd)| Cairo-Remote | Active | Unknown
+|[Ayamedica - iOS **Paid** Intern](https://www.linkedin.com/posts/ayamedica_ayamedica-internship-iosdevelopment-activity-7073956506659938304-tvPJ?utm_source=share&utm_medium=member_desktop)| Cairo | Active | Unknown
 |[Samsung Innovation Campus](https://docs.google.com/forms/d/e/1FAIpQLSeANCfkYwWPrFp9hbS3smRzdhfKh6TTjDL3hZ1KjBYwW6TV2w/viewform)| Remote | Active | 15/6/2023 |
 |[Naqla- Data Analyst](https://naqla.zohorecruit.com/jobs/Careers/706650000001708700/Analyst-Internship)|Cairo| Active | Unkonwn |
 |[Paysky - Paid](https://paysky.io/jobs/internships-across-functions/)| - | Active | Unknown |
