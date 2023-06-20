@@ -16,12 +16,14 @@ Welcome to CSED25 Internships. This repository serves as a collection of interns
 ## Contribution
 1. Ensure the internship details are accurate and provide all the necessary information.
 2. Submit the details via the [Contribution Form](https://docs.google.com/forms/d/e/1FAIpQLSd4RoZeTgh7bJ2fLb7HgJCombEjj1C4GJpUQKIFivW3ENlm_w/viewform?usp=sf_link) or make a direct edit to the README.md file.
-3. Append the new internship opportunity at the top of the list, including the intern name, location, status, and deadline to become one of your contributors.
+3. Append the new internship opportunity at the top of the list, including the intern's name, location, status, and deadline to become one of your contributors.
 
 
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
+|[Full Stack Internship](https://wuzzuf.net/internship/wp7c7rCo2mI8-Internship-Full-Stack-Web-Developer-NODEJS-React---Alexandria-Procrew-Alexandria-Egypt?o=1&l=sp&t=sj&a=search-v3)| Alexandria | Active| Unknown
+|[Hackathon Internship Program](https://www.linkedin.com/posts/cegedim-egypt_cegedimhackathon-activity-7076568390764511232-DzOU/?utm_source=share&utm_medium=member_android)| Remote | Active| Unknown
 |[Bosta Android **Paid** intern](https://jobs.lever.co/Bosta/5f97386e-c22d-4cf8-877c-e7abe0561aa8)| Cairo-Remote | Active|Unknown
 |[Bosta SW testing **Paid** intern](https://jobs.lever.co/Bosta/6b921ff8-3e90-4122-96c5-5e703ea2e3fe)| Cairo-Remote | Active|Unknown
 |[Optioma CyberSec - Cyber security](https://www.linkedin.com/posts/optimaps_summer-internship-opportunity-atoptima-professional-activity-7073591967208620032-JGlG?utm_source=share&utm_medium=member_desktop)|Cairo| Active | Unknown
