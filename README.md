@@ -22,6 +22,7 @@ Welcome to CSED25 Internships. This repository serves as a collection of interns
 ## Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
+|[Paymob - Backend(pyhon) - Frontend - ios & Andoroid - pentesting ](https://www.linkedin.com/posts/paymobcompany_finance-ecommerce-legal-activity-7084893585984135168-peR-?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy)| Cairo | Active |15th July|
 |[Full Stack Internship](https://wuzzuf.net/internship/wp7c7rCo2mI8-Internship-Full-Stack-Web-Developer-NODEJS-React---Alexandria-Procrew-Alexandria-Egypt?o=1&l=sp&t=sj&a=search-v3)| Alexandria | Active| Unknown
 |[Hackathon Internship Program](https://www.linkedin.com/posts/cegedim-egypt_cegedimhackathon-activity-7076568390764511232-DzOU/?utm_source=share&utm_medium=member_android)| Remote | Active| Unknown
 |[Bosta Android **Paid** intern](https://jobs.lever.co/Bosta/5f97386e-c22d-4cf8-877c-e7abe0561aa8)| Cairo-Remote | Active|Unknown
