@@ -57,7 +57,6 @@ Welcome to CSED25 Internships. This repository serves as a collection of interns
 ## Expired Interns
 | Intern Name | Location | Status | Deadline |
 |------|----------|--------|----------|
-
 |[Keploy DevRel Cohort](https://devrel.keploy.io) | Remote | Expired | Unknown |
 |[Cisco Consulting Engineer Internship](https://jobs.cisco.com/jobs/ProjectDetail/Internship-Consulting-Engineer-Egypt-Start-March-2023/1385857?source=LinkedIn) | Egypt-Cairo | Expired | Unknown |
 |[Uber 2023 Software Engineer Intern](https://university-uber.icims.com/jobs/116847/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) |  CA-San Francisco | Expired | Unknown |
